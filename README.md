@@ -63,13 +63,13 @@ This project applies multiple **regression models** to predict **carbohydrate co
 A sample reflectance curve from the dataset:
 
 <p align="center">
-  <img src="assets/spectra_plot.png" alt="Spectra Plot" width="500"/>
+  <img src="spectra_plot.png" alt="Spectra Plot" width="500"/>
 </p>
 
 ### 🔸 Model Comparison – Regression Performance
 
 <p align="center">
-  <img src="assets/regression_performance_carbohydrate.png" alt="Model Comparison" width="600"/>
+  <img src="regression_performance_carbohydrate.png" alt="Model Comparison" width="600"/>
 </p>
 
 - **X-axis**: Mean Squared Error (MSE)
