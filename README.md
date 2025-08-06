@@ -1,1 +1,1 @@
-# Hyperspectral-Data-Analysi-for-Millets
+# Hyperspectral-Data-Analysis-for-Millets
